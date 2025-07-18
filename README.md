@@ -1,2 +1,2 @@
 # CODSOFT
- https://dev-rana20.github.io/CODSOFT-TASK-1/
+ https://dev-rana20.github.io/CODSOFT_TASK-1/
